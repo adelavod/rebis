@@ -5,6 +5,7 @@
   font-size: 70px;
 }
 
+
 .cd-words-wrapper b {
   display: inline-block;
   position: absolute;
@@ -39,4 +40,13 @@
   opacity: 1;
   font-weight: 900;
 }
+/* mensi animace pro uzsi okna */
+@media (max-width: 995px) {
+  .cd-words-wrapper {
+    font-size: 30px;
 
+  }
+  .blc {
+    font-size: 30px;
+  }
+}

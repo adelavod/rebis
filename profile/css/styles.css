@@ -1,0 +1,14 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    position: relative;
+}
+
+#mainNav a {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    color: #00a000;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Ubuntu', sans-serif;
+}

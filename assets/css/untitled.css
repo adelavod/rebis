@@ -1,19 +1,22 @@
 body {
-  font-family: Lora,Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   position: relative;
   color: white;
   background-color: #00a000;
 }
 
 #mainNav a {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
   color: #00a000;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: Cabin,Helvetica Neue,Helvetica,Arial,sans-serif;
-  font-weight: 700;
-  margin: 0 0 35px;
-  letter-spacing: 1px;
-  text-transform: none;
+h1, h2, h3, h4, h5, h6, p {
+  font-family: 'Ubuntu', sans-serif;
 }
 
+#Jakub img{
+  width: 60%;
+  border-radius: 50%;
+  border: 5px blue;
+}

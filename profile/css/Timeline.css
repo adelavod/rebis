@@ -1,5 +1,19 @@
+#mainNav .nav-link.active:hover{
+  color: limegreen;
+}
+#rebisbox {
+  background-color: #f1f1f1;
+padding: 3%;
+}
+#rebisbox .btn{
+  background-color: #00a000;
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+}
+
 #section-timeline .text-muted {
-  color: #777777;
+  color: #777;
 }
 
 section#section-timeline {
@@ -86,8 +100,8 @@ section#section-timeline h3.section-subheading {
   height: 80px;
   position: absolute;
   z-index: 100;
-  background-color: #fed136;
-  color: #fff;
+  background-color: #ffffff;
+  color: #000;
   border-radius: 100%;
   border: 7px solid #f1f1f1;
   text-align: center;
