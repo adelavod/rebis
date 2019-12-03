@@ -5,6 +5,7 @@
   background-color: #f1f1f1;
 padding: 3%;
 }
+
 #rebisbox .btn{
   background-color: #00a000;
   color: white;
@@ -150,10 +151,18 @@ section#section-timeline h3.section-subheading {
   margin-bottom: 0;
 }
 
+@media (max-width:495px) {
+  #rebisbox h1 {
+    padding-top: 25px;
+    font-size: 30px;
+  }
+}
+
 @media (min-width:768px) {
   .timeline:before {
     left: 50%;
   }
+
 }
 
 @media (min-width:768px) {

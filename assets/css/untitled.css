@@ -20,3 +20,9 @@ h1, h2, h3, h4, h5, h6, p {
   border-radius: 50%;
   border: 5px blue;
 }
+
+@media (max-width:455px) {
+  #animation .caption {
+display: none;
+  }
+}
