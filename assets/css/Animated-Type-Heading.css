@@ -2,7 +2,7 @@
   display: inline-block;
   position: relative;
   text-align: left;
-  font-size: 70px;
+  font-size: 50px;
 }
 
 
@@ -15,7 +15,7 @@
 }
 
 .blc {
-  font-size: 70px;
+  font-size: 50px;
 }
 
 .cd-words-wrapper b.is-visible {
@@ -41,7 +41,7 @@
   font-weight: 900;
 }
 /* mensi animace pro uzsi okna */
-@media (max-width: 995px) {
+@media (max-width: 905px) {
   .cd-words-wrapper {
     font-size: 30px;
 

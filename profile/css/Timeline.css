@@ -157,6 +157,11 @@ section#section-timeline h3.section-subheading {
     font-size: 30px;
   }
 }
+@media (max-width: 767px) {
+  section#section-timeline h2.section-heading {
+    font-size: 24px;
+  }
+}
 
 @media (min-width:768px) {
   .timeline:before {
