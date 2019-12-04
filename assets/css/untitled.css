@@ -21,8 +21,26 @@ h1, h2, h3, h4, h5, h6, p {
   border: 5px blue;
 }
 
+#career .jumbotron-fluid {
+  color: black;
+  padding: 10% 5% 5% 5%;
+}
+@media (max-width:455px) {
+  #career .row {
+    padding-top: 20px;
+  }
+}
 @media (max-width:455px) {
   #animation .caption {
 display: none;
+  }
+}
+@media (max-width:455px) {
+  #h2 {
+    padding-top: 15px;
+    font-size: 25px;
+  }
+  #h3 {
+    font-size: 20px;
   }
 }
